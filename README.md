@@ -15,7 +15,7 @@ Data includes agent performance, resolution counts, satisfaction ratings, and ca
 To provide actionable insights to improve retention and call center efficiency.
 
 ## 📎 Related:
-- Dataset: [Call-Center-Dataset.xlsx](Call-Center-Dataset.xlsx)
-- Dashboard Screenshot: [View](Dashboard_Screenshot.png)
-- Insights: [/Insights/Insights_Summary.md](./Insights/Insights_Summary.md)
-- Case Brief: [PhoneNow Case](PhoneNow_Case_Description.pdf)
+- 📊 Dataset: [Call-Center-Dataset.xlsx](./Call-Center-Dataset.xlsx)
+- 📄 Case Brief: [PhoneNow inputs (3).pdf](./PhoneNow%20inputs%20(3).pdf)
+- 📸 Dashboard Screenshot: [View Dashboard](./PhoneNOW_simulation.pdf)
+- 🧠 Insights Summary: [Insights_Summary.md](./Insights/Insights_Summary.md)
