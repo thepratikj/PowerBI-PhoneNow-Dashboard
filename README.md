@@ -14,8 +14,3 @@ Data includes agent performance, resolution counts, satisfaction ratings, and ca
 ## 🔍 Objective
 To provide actionable insights to improve retention and call center efficiency.
 
-## 📎 Related:
-- 📊 Dataset: [Call-Center-Dataset.xlsx]([./Call-Center-Dataset.xlsx](https://github.com/thepratikj/PowerBI-PhoneNow-Dashboard/blob/main/01%20Call-Center-Dataset.xlsx))
-- 📄 Case Brief: [PhoneNow inputs (3).pdf](./PhoneNow%20inputs%20(3).pdf)
-- 📸 Dashboard Screenshot: [View Dashboard](./PhoneNOW_simulation.pdf)
-- 🧠 Insights Summary: [Insights_Summary.md](./Insights/Insights_Summary.md)
